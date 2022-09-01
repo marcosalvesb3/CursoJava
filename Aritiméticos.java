@@ -1,4 +1,4 @@
-package Fundamentos;
+package FundamentosJava;
 
 public class Aritiméticos {
 	

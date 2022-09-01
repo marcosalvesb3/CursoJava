@@ -1,4 +1,4 @@
-package Fundamentos;
+package FundamentosJava;
 
 import javax.swing.JOptionPane;
 

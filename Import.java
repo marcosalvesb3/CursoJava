@@ -1,4 +1,4 @@
-package Fundamentos;
+package FundamentosJava;
 
 import java.util.Date; // O Import vem sempre antes da classe
 

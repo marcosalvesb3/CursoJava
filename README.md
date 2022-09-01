@@ -1,5 +1,7 @@
 # Sumário 
 
+## Fundamentos
+
 Link | Descrição |
 -----|-----------|
 [Primeiro Programa](https://github.com/marcosalvesb3/FundamentosJava/blob/main/PrimeiroPrograma.java) | Olá Mundo !!!
@@ -14,3 +16,5 @@ Link | Descrição |
 [Conversão Numero String](https://github.com/marcosalvesb3/FundamentosJava/blob/main/ConversaoNumeroString.java)| Convertendo numeros em Strings `.toString`
 [Conversão String Número](https://github.com/marcosalvesb3/FundamentosJava/blob/main/ConversaoStringNumero.java)| Convertendo Strings em numeros `.parseDouble`
 [Conversão Tipo Primitivo Númerico](https://github.com/marcosalvesb3/FundamentosJava/blob/main/ConversaoTipoPrimitivoN%C3%BAmerico.java)| **CAST** <br/> **Conversão Explicita**: >< <br/>**Conversão Implicita:** <>
+
+## Operadores

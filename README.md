@@ -18,3 +18,18 @@ Link | Descrição |
 [Conversão Tipo Primitivo Númerico](https://github.com/marcosalvesb3/FundamentosJava/blob/main/ConversaoTipoPrimitivoN%C3%BAmerico.java)| **CAST** <br/> **Conversão Explicita**: >< <br/>**Conversão Implicita:** <>
 
 ## Operadores
+
+Link | Descrição|
+-----|----------|
+[Operadores Aritiméticos](https://github.com/marcosalvesb3/CursoJava/blob/main/Aritim%C3%A9ticos.java)| `+` `-` `*` `/` e `%` mostra a sobra da divisão.
+[Desafio Aritiméticos](https://github.com/marcosalvesb3/CursoJava/blob/main/DesafioAritimeticos.java)| **Resolvendo a expressão númerica:** ( (6 * (3 + 2) )² / 3 * 2 - ( (1 - 5) * (2 - 7) / 2)²  )³ / 10³
+[Operadores Logicos](https://github.com/marcosalvesb3/CursoJava/blob/main/OperadoresLogicos.java)| `AND`, `OR`, `XOR`, `NOT`
+[Desafio Logicos](https://github.com/marcosalvesb3/CursoJava/blob/main/DesafioLogicos.java)| Um homem tem dois dias para trabalhar, se caso trabalhe os dois ele levará a familia para tomar sorvete e comprará uma TV de 50.<br/> Se caso ele trabalhe apenas um dos dois dias, comprará uma TV de 35 e também levara a familia para tomar sorvete.<br/> E se não trabalhar nenhum dia ficará em casa.
+[Operadores Relacionais](https://github.com/marcosalvesb3/CursoJava/blob/main/OperadoresRelacionais.java)| **IGUALDADE, DIFERENÇA, MENOR QUE, MAIOR QUE, MAIOR OU IGUAL A, MENOR OU IGUAL A.**
+[Operadores Unarios](https://github.com/marcosalvesb3/CursoJava/blob/main/OperadoresUnarios.java)| Incremento e decremento `++` `--`
+[Operador Ternario](https://github.com/marcosalvesb3/CursoJava/blob/main/OperadorTernario.java)| `(expressão booleana) ? código 1 : código 2;` usado apra tomada de decisão.
+[Operador de Atribuição](https://github.com/marcosalvesb3/CursoJava/blob/main/OperadoresDeAtribuiçao.java)| Usado para atribuir um valor ou subscrever o valor de uma variavel.
+[Desafio Calculadora](https://github.com/marcosalvesb3/CursoJava/blob/main/DesafioCalculadora.java)| Usando `Scanner` para inserir os numeros e o sinal da operação a ser feita.
+[Desafio Temperatura](https://github.com/marcosalvesb3/CursoJava/blob/main/DesafioTemperatura.java)| CONVERTENDO A TEMPERADURA DE ºF PARA ºC
+[Desafio Conversão](https://github.com/marcosalvesb3/CursoJava/blob/main/DesafioConversao.java)| Abrindo IMPUT, colocando 3 salarios e retornando a média salarial.
+[]()
